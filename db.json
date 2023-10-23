@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "user": "Mehmet",
+      "title": "React MVC Pattern(Mimari)",
+      "text": "MVC Mimari ile nasıl bileşenleri yöntirim??",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": 2,
+      "user": "Ali",
+      "title": "React MVVM Paterni",
+      "text": "Bu nedir???",
+      "date": "2023-09-11T19:13:21.364Z"
+    },
+    {
+      "id": "378a0574-a91e-417e-ae41-a301fe1234e0",
+      "date": "2023-09-11T19:13:21.364Z",
+      "title": "React123",
+      "text": "Bunu nasıl çözeriz???",
+      "user": "Ahmet"
+    },
+    {
+      "id": "ff867aec-1452-4ec5-bb37-75ccd6234fe4",
+      "date": "2023-09-11T19:59:57.523Z",
+      "title": "MVVM Nedir?",
+      "text": "Nası l oluyor\n",
+      "user": "Mehmet"
+    },
+    {
+      "id": "02db8f75-0321-4edb-af18-e5b0783acda6",
+      "date": "2023-09-11T20:00:15.908Z",
+      "title": "React ile proje ",
+      "text": "React ile proje  nasıl geliştirilir????",
+      "user": "Ali"
+    },
+    {
+      "id": "f52bf28e-423d-4bf0-b61e-0c95f57a8557",
+      "date": "2023-10-23T07:56:19.362Z",
+      "title": "mvc nasıl kullanılır?",
+      "text": "MVC",
+      "user": "hilal"
+    },
+    {
+      "id": "f467c860-81a8-4218-8e72-c734d5588763",
+      "date": "2023-10-23T08:53:46.251Z",
+      "title": "react nedir",
+      "text": "nasıl kullanılır",
+      "user": "Deniz"
+    },
+    {
+      "id": "92c9baa3-6626-40bb-b0f9-5e1cb2fbed54",
+      "date": "2023-10-23T08:58:05.097Z",
+      "title": "react",
+      "text": "reactın kullanım alanları",
+      "user": "Deniz12"
+    }
+  ]
+}
